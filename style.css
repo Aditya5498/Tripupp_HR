@@ -1,0 +1,51 @@
+.video1{
+	border-width: 15px;
+	border-style: solid;
+	border-image: linear-gradient(to right, purple,red ) 100 10% 100 10%;
+}
+
+.video2{
+	box-shadow: 5px 10px 8px rgb(131, 122, 122);
+	border-radius: 3em;
+}
+
+.addsvg1{
+	background-image: url('oval.svg');
+	background-repeat: no-repeat;
+	background-position: center;	
+}
+
+.addsvg2{
+	background-image: url('leftshape1.svg');
+	background-repeat: no-repeat;
+
+}
+
+.addsvg2right{
+	background-image: url('leftshape1.svg');
+	background-repeat: no-repeat;
+	background-position: 39em;
+	background-size: cover;
+}
+
+.addsvg1zoom{
+	background-image: url('oval.svg');
+	background-repeat: no-repeat;
+	background-size: 100em;	
+}
+
+.card1{
+	border-radius: 5px;
+	box-shadow: 5px 10px 8px rgb(104, 98, 98);
+	background-color: rgb(225, 233, 240);
+	width: 14em;
+	height: 13em;
+}
+
+.foot{
+	background-image: url('wave.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*height: 10em;*/
+}
+
